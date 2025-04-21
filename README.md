@@ -1,4 +1,6 @@
 # CharactorHandingout
-a simple c++ program that could automatically hand out charactors in game "Lang Rensha"
+Simple C++ implementations for game Werewolf character handing-out.
 
-it's my first program that could deal with real problems, so it is meaningful enough.
+One day we have a online-meeting for werewolf game.We have no real-cards when handing out characters, so I finish this work in all sights of my friends with about 20 minutes.
+
+It's my first program that could deal with real problems,meaningful enough.
